@@ -239,7 +239,7 @@ Function Prototypes
 
 ## Authors
 <details>
-    <summary>Suara Ayomide</summary>
+    <summary>Moges Amane</summary>
     <ul>
     <li><a href="https://www.github.com/stoicism-sympathei">Github</a></li>
     <li><a href="mailto:mogesanonymous@gmail.com">e-mail</a></li>
